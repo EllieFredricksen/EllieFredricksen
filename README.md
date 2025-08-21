@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EllieFredricksen
+- 👋 Hi, I’m Jana
 - 👀 I’m interested in programming, psychology and education
-- 🌱 I’m currently learning Java, PHP, HTML, CSS
+- 🌱 I’m currently learning PHP, JavaScript and MySQL
 
 
 <!---
